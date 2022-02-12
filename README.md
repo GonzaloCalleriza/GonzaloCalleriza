@@ -5,7 +5,7 @@ I'm a digital nomad with a strong background in Emotional Intelligence that want
 Skills: HTML / CSS / JS / ReactJS / Java
 
 - 🔭 I’m currently working on various HTML and ReactJS projects (stay log in for more) 
-- 🌱 I’m currently learning React JS (to the fullest) and C# 
+- 🌱 I’m currently learning React JS (to the fullest) and React Native 
 - ⚡ Fun fact: slowly but surely I will create the first artificial intelligence with emotions (and probably the end of times) 
 
 
